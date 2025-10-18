@@ -15,7 +15,7 @@
 </div>
 
 <div id="Badages">
-<a href="[https://youtube.com/channel/UC4fuUhsWnQMeJnkzyXd-dPQ](https://www.youtube.com/@angelor_1354)">
+<a href="https://www.youtube.com/@angelor_1354">
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
 </div>

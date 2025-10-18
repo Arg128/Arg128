@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<div id="Badages">
+<a href="youtube.com/channel/UC4fuUhsWnQMeJnkzyXd-dPQ">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+</a>
+</div>
+
 <!--
 **Arg128/Arg128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

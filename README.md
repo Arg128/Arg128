@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## This's new for me 👌
-## I dont know any idea; just what's need it 🌱⛳
+## I dont know any idea; its what's need it only 🌱⛳
 <div id="Header">
   <h3> Muchas cosas inesperadas van a pasar en tu día; sonrie a los buenos tiempos y agradece los malos</p>
   <h3> Someone whos keeping in the track; claims his victory instead faculty only</p>
